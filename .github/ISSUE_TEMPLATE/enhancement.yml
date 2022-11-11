@@ -1,5 +1,5 @@
 name: Enhancement
-description: Provide supporting details to request development of a feature
+description: Provide supporting details to request development of a feature.
 labels: feature
 body:
   - type: textarea
