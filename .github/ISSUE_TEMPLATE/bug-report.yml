@@ -23,8 +23,6 @@ body:
     id: repro
     attributes:
       label: How can we reproduce it (as minimally and precisely as possible)?
-    validations:
-      required: true
 
   - type: textarea
     id: additional
@@ -44,5 +42,3 @@ body:
         ```
 
         </details>
-    validations:
-      required: true
