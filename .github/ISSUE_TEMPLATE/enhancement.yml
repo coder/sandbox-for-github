@@ -6,7 +6,6 @@ body:
     id: feature
     attributes:
       label: What would you like to be added?
-      description: |
     validations:
       required: true
 
