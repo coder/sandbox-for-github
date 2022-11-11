@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report a bug encountered while using Coder
+description: Report a bug encountered while using Coder.
 labels: bug
 body:
   - type: textarea
