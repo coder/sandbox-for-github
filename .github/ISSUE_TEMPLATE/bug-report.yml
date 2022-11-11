@@ -34,11 +34,7 @@ body:
     attributes:
       label: Coder version
       value: |
-        <details>
-
         ```console
         $ coder version
         # paste output here
         ```
-
-        </details>
